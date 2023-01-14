@@ -37,7 +37,7 @@ beforeEach(()=> {
     });
 
 
-    it.only('Escolhe um produto, insere no carrinho e valida de outra forma', () => {
+    it('Escolhe um produto, insere no carrinho e valida de outra forma', () => {
 
         let produto = 'Sofá'
 
