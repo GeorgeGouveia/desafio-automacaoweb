@@ -2,7 +2,7 @@
 
 Um projeto de automação Web para o desafio proposto pelo processo seletivo da Fiabilité.
 
-O projeto consiste em entrar em um grande portal de comércio online. No caso, escolhi a Magazine Luiza.
+O projeto consiste em entrar em um grande portal de comércio online. No caso, escolhi a Amazon.
 
 Será feito uma busca de um produto e validar o retorno. 
 git 
