@@ -16,3 +16,9 @@ Utilizei as seguintes ferramentas para realizar o desafio:
 - Cypress 9.5.1
 - Node 16.17.0
 - Git 2.38.1
+
+### Observações
+
+Foi adicionado um vídeo no projeto cujo o nome é: Testes.spec.js.mp4.
+
+Esse vídeo contem a gravação de todos os testes feitos nesse projeto.
